@@ -1,0 +1,12 @@
+version: '3.1'
+services:
+  web:
+    build: .
+    ports:
+      - "8081:8081"
+    depends_on:
+      - dynamodb
+  dynamodb:
+    image: "amazon/dynamodb-local"
+    ports:
+      - "8000:8000"
