@@ -20,6 +20,7 @@ public class MovieInsertData {
 
     public void insert() {
         AmazonDynamoDB client = AmazonDynamoDBClientBuilder.standard()
+                .withCredentials(new DynamoDBConfig().awsCredentialsProvider)
                 .withEndpointConfiguration(new AwsClientBuilder.EndpointConfiguration(new DynamoDBConfig().getDBEndpoint(), "us-west-2"))
                 .build();
 

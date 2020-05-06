@@ -1,6 +1,6 @@
-/Users/dongbiao/Projects/movies/src/main/java/com/dongbiao/operatedynamodb/MovieGetData.java
-/Users/dongbiao/Projects/movies/src/main/java/com/dongbiao/operatedynamodb/DynamoDBConfig.java
-/Users/dongbiao/Projects/movies/src/main/java/com/dongbiao/operatedynamodb/MovieInsertData.java
-/Users/dongbiao/Projects/movies/src/main/java/com/dongbiao/operatedynamodb/MovieCreateTable.java
-/Users/dongbiao/Projects/movies/src/main/java/com/dongbiao/operatedynamodb/MoviesApplication.java
-/Users/dongbiao/Projects/movies/src/main/java/com/dongbiao/operatedynamodb/IndexController.java
+/Users/dongbiao/Projects/Movies/src/main/java/com/dongbiao/operatedynamodb/MovieCreateTable.java
+/Users/dongbiao/Projects/Movies/src/main/java/com/dongbiao/operatedynamodb/MovieGetData.java
+/Users/dongbiao/Projects/Movies/src/main/java/com/dongbiao/operatedynamodb/MovieInsertData.java
+/Users/dongbiao/Projects/Movies/src/main/java/com/dongbiao/operatedynamodb/MoviesApplication.java
+/Users/dongbiao/Projects/Movies/src/main/java/com/dongbiao/operatedynamodb/DynamoDBConfig.java
+/Users/dongbiao/Projects/Movies/src/main/java/com/dongbiao/operatedynamodb/IndexController.java

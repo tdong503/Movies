@@ -4,6 +4,8 @@ services:
     build: .
     ports:
       - "8081:8081"
+    links:
+      - dynamodb
     depends_on:
       - dynamodb
   dynamodb:
